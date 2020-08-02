@@ -17,14 +17,14 @@
 
 ### 🚀 Main projects:
 
-- **[PolymApp](https://github.com/DanielBrito/polymapp)**: Tool for personal management
+- **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
 - **[Compixelar](https://medium.com/compixelar)**: Creative coding experiments
 - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
 - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
 - **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
 - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
 - **[Polymatus](http://daniel-brito.blogspot.com.br/)**: Personal blog
-- **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
+- **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems 
 - **[Célerebro](https://github.com/DanielBrito/celerebro)**: Math mini-game inspired on command-line based applications
 
 ### 📚 Published books:
