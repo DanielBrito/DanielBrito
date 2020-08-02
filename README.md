@@ -10,6 +10,7 @@
 ### 🎯 Studies:
 
 - I'm focusing on topics concerning to ***front-end development*** of **web** and **mobile** applications from:
+
   - *[Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)*
   - *[Web Skills](https://andreasbm.github.io/web-skills/)*
   - *[Developer Roadmap](https://roadmap.sh/)*
@@ -38,7 +39,7 @@
 - **Programming Languages**: C, C++, Java, JavaScript, Python, Processing 
 - **Front-end and Mobile**: HTML, CSS, ReactJS, JQuery, Redux, TypeScript, Android, Retrofit, Material-UI, Bootstrap, Styled Components, Sass 
 - **Design**: Photoshop, GIMP, Krita, Inkscape, Figma, Balsamiq, Draw.io, Blender 
-- **Back-end and DevOps**: Spring Framework, REST API, JWT, MySQL, Firebase, Docker 
+- **Back-end and DevOps**: Spring Framework, REST API, MySQL, Firebase, Docker 
 - **Versioning**: Git, GitLab, GitHub 
 - **Tools**: VSCode, Postman, MySQL Workbench 
 - **Languages**: English, French
@@ -47,21 +48,21 @@
 
 - [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests](https://link.springer.com/book/10.1007/978-3-319-72547-5) (Antii Laaksonen)
 - [Processing: Creative Coding and Computational Art](https://books.google.com.br/books/about/Processing.html?id=TKgfVpWPb0sC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) (Ira Greenberg)
-- [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) (Frontend Masters)
 
 ### 🧠 What I intend to learn (when possible):
 
 - **Programming Languages**: C#, Kotlin
-- **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Immer, Storybook, Vue.js, Angular, Flutter, HAML, CoffeeScript, p5.js, three.js, SEO
+- **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Immer, Storybook, Vue.js, Angular, Flutter, HAML, CoffeeScript, p5.js, three.js, JWT, SEO
 - **Design**: Adobe Illustrator, Adobe XD
 - **Back-end and DevOps**: Node.js, GitHub Actions, Jenkins, Cypress, Shell Script  
 - **Hardware and OS**: Kali Linux, Arduino
+- **Computer Graphics**: OpenFrameworks, Cinder
 - **Tools**: Unity, Construct
 - **Languages**: Spanish, Italian
 
 ### ❤️ Other interests:
 
-Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), Mathematics, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Computer Graphics, [Chess](https://lichess.org/@/danielbrito41), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep?si=oWza3WozRimzC7rt965_ww), [Cinema](https://filmow.com/usuario/daniel_brito/), Veganism, Calisthenics, Travelling
+Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), Mathematics, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), [Chess](https://lichess.org/@/danielbrito41), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep?si=oWza3WozRimzC7rt965_ww), [Cinema](https://filmow.com/usuario/daniel_brito/), Veganism, Calisthenics, Travelling
 
 #### 🤝 Social networks
 
