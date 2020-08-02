@@ -5,7 +5,11 @@
 - I'm a ***Computer Science student*** and ***intern*** at the Federal University of Ceará
 - I'm a ***visual art(iv)ist***
 - I'm a ***writer*** and ***poet***
-- I'm focusing on ***front-end development*** of **web** and **mobile** applications
+- I'm focusing on topics concerning to ***front-end development*** of **web** and **mobile** applications from:
+  - *[Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)*
+  - *[Web Skills](https://andreasbm.github.io/web-skills/)*
+  - *[Developer Roadmap](https://roadmap.sh/)*
+  - *[100 Days of Code](https://github.com/nas5w/100-days-of-code-frontend)*
 - Here is my ***[resumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***, ***[portfolio](https://danielbrito.github.io/home/)*** and **[all my links](https://allmylinks.com/danielbrito)**
 
 ### 🚀 Main projects:
