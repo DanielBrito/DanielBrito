@@ -37,7 +37,7 @@
 
 - **Programming Languages**: C, C++, Java, JavaScript, Python, Processing 
 - **Front-end and Mobile**: HTML, CSS, ReactJS, JQuery, Redux, TypeScript, Android, Retrofit, Material-UI, Bootstrap, Styled Components, Sass 
-- **Design**: Photoshop, GIMP, Krita, Inkscape, Figma, Balsamiq, Blender 
+- **Design**: Photoshop, GIMP, Krita, Inkscape, Figma, Balsamiq, Draw.io, Blender 
 - **Back-end and DevOps**: Spring Framework, REST API, JWT, MySQL, Firebase, Docker 
 - **Versioning**: Git, GitLab, GitHub 
 - **Tools**: VSCode, Postman, MySQL Workbench 
