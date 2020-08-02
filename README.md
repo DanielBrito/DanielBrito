@@ -36,7 +36,7 @@
 ### 💡 Knowledge (but learning a little more each day):
 
 - **Programming Languages**: C, C++, Java, JavaScript, Python, Processing 
-- **Front-end and Mobile**: HTML, CSS, ReactJS, JQuery, Redux, TypeScript, Android, Material-UI, Bootstrap, Styled Components, Sass 
+- **Front-end and Mobile**: HTML, CSS, ReactJS, JQuery, Redux, TypeScript, Android, Retrofit, Material-UI, Bootstrap, Styled Components, Sass 
 - **Design**: Photoshop, GIMP, Krita, Inkscape, Figma, Balsamiq, Blender 
 - **Back-end and DevOps**: Spring Framework, REST API, JWT, MySQL, Firebase, Docker 
 - **Versioning**: Git, GitLab, GitHub 
