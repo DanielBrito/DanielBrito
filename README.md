@@ -1,16 +1,64 @@
-### Hi there 👋
+## Hello, world! Greetings from 🇧🇷
 
-<!--
-**DanielBrito/DanielBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Briefly:
 
-Here are some ideas to get you started:
+- I'm a ***Computer Science student*** and ***intern*** at the Federal University of Ceará
+- I'm a ***visual art(iv)ist***
+- I'm a ***writer*** and ***poet***
+- I'm focusing on ***front-end development*** of **web** and **mobile** applications
+- Here is my ***[resumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***, ***[portfolio](https://danielbrito.github.io/home/)*** and **[all my links](https://allmylinks.com/danielbrito)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Main projects:
+
+- **[PolymApp](https://github.com/DanielBrito/polymapp)**: Tool for personal management
+- **[Compixelar](https://medium.com/compixelar)**: Creative coding experiments
+- **[HáLugar](https://github.com/HaLugar)**: Housing app for students
+- **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
+- **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
+- **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
+- **[Polymatus](http://daniel-brito.blogspot.com.br/)**: Personal blog
+- **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
+- **[Célerebro](https://github.com/DanielBrito/celerebro)**: Math mini-game inspired on command-line based applications
+
+### 📚 Published books:
+
+- **Protestizando - Biênio Poético (2015)**: First poems
+- **A Ler Vazios (2016)**: Poetic visual experiments
+- **No Ritmo de Algo (20??)**: Compilation of new poems ([preview](https://github.com/DanielBrito/no-ritmo-de-algo))
+
+### 💡 Knowledge (but learning a little more each day):
+
+- **Programming Languages**: C, C++, Java, JavaScript, Python, Processing 
+- **Front-end and Mobile**: HTML, CSS, ReactJS, JQuery, Redux, TypeScript, Android, Material-UI, Bootstrap, Styled Components, Sass 
+- **Design**: Photoshop, GIMP, Krita, Inkscape, Figma, Balsamiq, Blender 
+- **Back-end and DevOps**: Spring Framework, REST API, JWT, MySQL, Firebase, Docker 
+- **Versioning**: Git, GitLab, GitHub 
+- **Tools**: VSCode, Postman, MySQL Workbench 
+- **Languages**: English, French
+
+### 👀 What I'm reading:
+
+- [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests](https://link.springer.com/book/10.1007/978-3-319-72547-5) (Antii Laaksonen)
+- [Processing: Creative Coding and Computational Art](https://books.google.com.br/books/about/Processing.html?id=TKgfVpWPb0sC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) (Ira Greenberg)
+- [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) (Frontend Masters)
+
+### 🧠 What I intend to learn (when possible):
+
+- **Programming Languages**: C#, Kotlin
+- **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Storybook, Vue.js, Angular, Flutter, HAML, CoffeeScript, p5.js, three.js, SEO
+- **Design**: Adobe Illustrator, Adobe XD
+- **Back-end and DevOps**: Node.js, GitHub Actions, Jenkins, Cypress, Shell Script  
+- **Hardware and OS**: Kali Linux, Arduino
+- **Tools**: Unity, Construct
+- **Languages**: Spanish, Italian
+
+### ❤️ Other interests:
+
+Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), Mathematics, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Computer Graphics, [Chess](https://lichess.org/@/danielbrito41), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep?si=oWza3WozRimzC7rt965_ww), [Cinema](https://filmow.com/usuario/daniel_brito/), Veganism, Calisthenics, Travelling
+
+#### 🤝 Social networks
+
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/daniel-brito)
+[![Facebook](https://img.shields.io/static/v1?label=&message=Facebook%20&color=0078FF&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/daniel.brito.jumper)
+[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram%20&color=ff69b4&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/danielbrito41/)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/danielhbrito)
