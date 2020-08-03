@@ -36,10 +36,10 @@
 
 ### 💡 Knowledge (but learning a little more each day):
 
-- **Programming Languages**: C, C++, Java, JavaScript, Python, Processing 
-- **Front-end and Mobile**: HTML, CSS, ReactJS, JQuery, Redux, TypeScript, Android, Retrofit, Material-UI, Bootstrap, Styled Components, Sass 
-- **Design**: Photoshop, GIMP, Krita, Inkscape, Figma, Balsamiq, Draw.io, Blender 
-- **Back-end and DevOps**: Spring Framework, REST API, MySQL, Firebase, Docker 
+- **Programming Languages**: [C](https://github.com/DanielBrito/celerebro), [C++](https://github.com/DanielBrito/competitive-programming), [Java](https://github.com/HaLugar), JavaScript, Python, [Processing](https://github.com/DanielBrito/creative-coding-experiments) 
+- **Front-end and Mobile**: [HTML](https://danielbrito.github.io/), [CSS](https://danielbrito.github.io/), [ReactJS](https://danielbrito.github.io/home/), JQuery, Redux, TypeScript, [Android](https://github.com/HaLugar), Retrofit, [Material-UI](https://github.com/DanielBrito/polymapp), [Bootstrap](https://danielbrito.github.io/), [Styled Components](https://github.com/arrieguadev/arriegua-site), Sass 
+- **Design**: Photoshop, GIMP, Krita, Inkscape, [Figma](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp), Balsamiq, Draw.io, [Blender](https://www.youtube.com/watch?v=M_IkGl3AcqE) 
+- **Back-end and DevOps**: Spring Framework, REST API, MySQL, [Firebase](https://github.com/HaLugar), Docker 
 - **Versioning**: Git, GitLab, GitHub 
 - **Tools**: VSCode, Postman, MySQL Workbench 
 - **Languages**: English, French
