@@ -30,15 +30,15 @@
 
 ### 📚 Published books:
 
-- **Protestizando - Biênio Poético (2015)**: First poems
-- **A Ler Vazios (2016)**: Poetic visual experiments
+- **Protestizando - Biênio Poético (2015)**: First poems ([more](https://danielbrito.github.io/home/#/books))
+- **A Ler Vazios (2016)**: Poetic visual experiments ([more](https://danielbrito.github.io/home/#/books))
 - **No Ritmo de Algo (20??)**: Compilation of new poems ([preview](https://github.com/DanielBrito/no-ritmo-de-algo))
 
 ### 💡 Knowledge (but learning a little more each day):
 
 - **Programming Languages**: [C](https://github.com/DanielBrito/celerebro), [C++](https://github.com/DanielBrito/competitive-programming), [Java](https://github.com/HaLugar), JavaScript, Python, [Processing](https://github.com/DanielBrito/creative-coding-experiments) 
 - **Front-end and Mobile**: [HTML](https://danielbrito.github.io/), [CSS](https://danielbrito.github.io/), [ReactJS](https://danielbrito.github.io/home/), JQuery, Redux, TypeScript, [Android](https://github.com/HaLugar), Retrofit, [Material-UI](https://github.com/DanielBrito/polymapp), [Bootstrap](https://danielbrito.github.io/), [Styled Components](https://github.com/arrieguadev/arriegua-site), Sass 
-- **Design**: Photoshop, GIMP, Krita, Inkscape, [Figma](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp), Balsamiq, Draw.io, [Blender](https://www.youtube.com/watch?v=M_IkGl3AcqE) 
+- **Design**: Photoshop, GIMP, Krita, Inkscape, [Figma](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp), [Balsamiq](https://github.com/DanielBrito/ufc/tree/master/Intera%C3%A7%C3%A3o%20Humano-Computador), Draw.io, [Blender](https://www.youtube.com/watch?v=M_IkGl3AcqE) 
 - **Back-end and DevOps**: Spring Framework, REST API, MySQL, [Firebase](https://github.com/HaLugar), Docker 
 - **Versioning**: Git, GitLab, GitHub 
 - **Tools**: VSCode, Postman, MySQL Workbench 
