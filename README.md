@@ -5,7 +5,7 @@
 - I'm a ***Computer Science student*** and ***intern*** at the Federal University of Ceará
 - I'm a ***visual art(iv)ist***
 - I'm a ***writer*** and ***poet***
-- Here is my ***[resumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***, ***[portfolio](https://danielbrito.github.io/home/)*** and **[all my links](https://allmylinks.com/danielbrito)**
+- Here is my ***[resumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***, ***[portfolio](https://danielbrito.github.io/home/)*** and ***[all my links](https://allmylinks.com/danielbrito)***
 
 ### 🎯 Studies:
 
