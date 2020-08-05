@@ -35,7 +35,7 @@
 - **A Ler Vazios (2016)**: Poetic visual experiments ([more](https://danielbrito.github.io/home/#/books))
 - **No Ritmo de Algo (20??)**: Compilation of new poems ([preview](https://github.com/DanielBrito/no-ritmo-de-algo))
 
-### 💡 Knowledge (but learning a little more each day):
+### 💡 Learning the basics. Learning by doing. Applying knowledge:
 
 - **Programming Languages**: [C](https://github.com/DanielBrito/celerebro), [C++](https://github.com/DanielBrito/competitive-programming), [Java](https://github.com/HaLugar), JavaScript, Python, [Processing](https://github.com/DanielBrito/creative-coding-experiments) 
 - **Front-end and Mobile**: [HTML](https://danielbrito.github.io/), [CSS](https://danielbrito.github.io/), [ReactJS](https://danielbrito.github.io/home/), JQuery, Redux, TypeScript, [Android](https://github.com/HaLugar), Retrofit, [Material-UI](https://github.com/DanielBrito/polymapp), [Bootstrap](https://danielbrito.github.io/), [Styled Components](https://github.com/DanielBrito/fire-tasks), Sass 
