@@ -40,7 +40,7 @@
 - **Programming Languages**: [C](https://github.com/DanielBrito/celerebro), [C++](https://github.com/DanielBrito/competitive-programming), [Java](https://github.com/HaLugar), JavaScript, Python, [Processing](https://github.com/DanielBrito/creative-coding-experiments) 
 - **Front-end and Mobile**: [HTML](https://danielbrito.github.io/), [CSS](https://danielbrito.github.io/), [ReactJS](https://danielbrito.github.io/home/), JQuery, Redux, TypeScript, [Android](https://github.com/HaLugar), Retrofit, [Material-UI](https://github.com/DanielBrito/polymapp), [Bootstrap](https://danielbrito.github.io/), [Styled Components](https://github.com/DanielBrito/fire-tasks), Sass 
 - **Design**: Photoshop, GIMP, Krita, Inkscape, [Figma](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp), [Balsamiq](https://github.com/DanielBrito/ufc/tree/master/Intera%C3%A7%C3%A3o%20Humano-Computador), Draw.io, [Blender](https://www.youtube.com/watch?v=M_IkGl3AcqE) 
-- **Back-end and DevOps**: Spring Framework, REST API, MySQL, Flyway, [Firebase](https://github.com/HaLugar), Docker 
+- **Back-end and DevOps**: Spring Framework, REST, MySQL, Flyway, [Firebase](https://github.com/HaLugar), Docker 
 - **Versioning**: Git, GitLab, GitHub 
 - **Tools**: VSCode, Postman, MySQL Workbench 
 - **Languages**: English, French
@@ -55,7 +55,7 @@
 - **Programming Languages**: C#, Kotlin
 - **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Immer, Storybook, Vue.js, Angular, Flutter, SQLite, HAML, CoffeeScript, p5.js, three.js, JWT, SEO
 - **Design**: Adobe Illustrator, Adobe XD
-- **Back-end and DevOps**: Node.js, GitHub Actions, Jenkins, Cypress, Shell Script  
+- **Back-end and DevOps**: Node.js, GraphQL, GitHub Actions, Jenkins, Cypress, Shell Script  
 - **Hardware and OS**: Kali Linux, Arduino
 - **Computer Graphics**: OpenFrameworks, Cinder
 - **Tools**: Unity, Construct
