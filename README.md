@@ -53,9 +53,9 @@
 ### 🧠 What I intend to learn (when possible):
 
 - **Programming Languages**: C#, Kotlin
-- **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Immer, Storybook, Vue.js, Angular, Flutter, SQLite, HAML, CoffeeScript, p5.js, three.js, JWT, SEO
+- **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Immer, Storybook, Vue.js, Angular, Flutter, HAML, CoffeeScript, p5.js, three.js, JWT, SEO
 - **Design**: Adobe Illustrator, Adobe XD
-- **Back-end and DevOps**: Node.js, GraphQL, GitHub Actions, Jenkins, Cypress, Shell Script  
+- **Back-end and DevOps**: Node.js, GraphQL, Realm, GitHub Actions, Jenkins, Cypress, Shell Script  
 - **Hardware and OS**: Kali Linux, Arduino
 - **Computer Graphics**: OpenFrameworks, Cinder
 - **Tools**: Unity, Construct
