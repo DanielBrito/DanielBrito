@@ -19,6 +19,7 @@
 ### 🚀 Main projects:
 
 - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
+- **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome to-do list application
 - **[Compixelar](https://medium.com/compixelar)**: Creative coding experiments
 - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
 - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
@@ -35,8 +36,8 @@
 - **A Ler Vazios (2016)**: Poetic visual experiments ([more](https://danielbrito.github.io/home/#/books))
 - **No Ritmo de Algo (20??)**: Compilation of new poems ([preview](https://github.com/DanielBrito/no-ritmo-de-algo))
 
+<!--
 ### 💡 Learning the basics. Learning by doing. Applying knowledge:
-
 - **Programming Languages**: [C](https://github.com/DanielBrito/celerebro), [C++](https://github.com/DanielBrito/competitive-programming), [Java](https://github.com/HaLugar), JavaScript, Python, [Processing](https://github.com/DanielBrito/creative-coding-experiments) 
 - **Front-end and Mobile**: [HTML](https://danielbrito.github.io/), [CSS](https://danielbrito.github.io/), [ReactJS](https://danielbrito.github.io/home/), JQuery, Redux, TypeScript, [Android](https://github.com/HaLugar), Retrofit, [Material-UI](https://github.com/DanielBrito/polymapp), [Bootstrap](https://danielbrito.github.io/), [Styled Components](https://github.com/DanielBrito/fire-tasks), Sass 
 - **Design**: Photoshop, GIMP, Krita, Inkscape, [Figma](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp), [Balsamiq](https://github.com/DanielBrito/ufc/tree/master/Intera%C3%A7%C3%A3o%20Humano-Computador), Draw.io, [Blender](https://www.youtube.com/watch?v=M_IkGl3AcqE) 
@@ -44,14 +45,15 @@
 - **Versioning**: Git, GitLab, GitHub 
 - **Tools**: VSCode, Postman, MySQL Workbench 
 - **Languages**: English, French
+-->
 
 ### 👀 What I'm reading:
 
 - [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests](https://link.springer.com/book/10.1007/978-3-319-72547-5) (Antii Laaksonen)
 - [Processing: Creative Coding and Computational Art](https://books.google.com.br/books/about/Processing.html?id=TKgfVpWPb0sC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) (Ira Greenberg)
 
+<!--
 ### 🧠 What I intend to learn (when possible):
-
 - **Programming Languages**: C#, Kotlin
 - **Front-end and Mobile**: JUnit, Jest, Next.js, Gatsby, Gulp, Puppeteer, Material Design, Semantic UI, Materialize, Tailwind CSS, Foundation, Bulma, Ant Design, Electron, React Native, MobX, Immer, Storybook, Vue.js, Angular, Flutter, HAML, CoffeeScript, p5.js, three.js, JWT, SEO
 - **Design**: Adobe Illustrator, Adobe XD
@@ -60,6 +62,7 @@
 - **Computer Graphics**: OpenFrameworks, Cinder
 - **Tools**: Unity, Construct
 - **Languages**: Spanish, Italian
+-->
 
 ### ❤️ Other interests:
 
