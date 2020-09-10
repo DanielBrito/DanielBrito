@@ -27,7 +27,7 @@
 - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
 - **[Polymatus](http://daniel-brito.blogspot.com.br/)**: Personal blog
 - **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems 
-- **[Célerebro](https://github.com/DanielBrito/celerebro)**: Math mini-game inspired on command-line based applications
+- **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
 - **[Others](https://github.com/DanielBrito?tab=projects)**: Ideas, On going, Completed
 
 ### 📚 Published books:
