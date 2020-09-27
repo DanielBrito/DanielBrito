@@ -9,7 +9,7 @@
 
 ### 🎯 Studies:
 
-- I'm focusing on topics concerning to ***front-end development*** of ***web*** and ***mobile*** applications from:
+- I'm focusing on topics concerning ***front-end development*** of ***web*** and ***mobile*** applications from:
 
   - *[Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)*
   - *[Web Skills](https://andreasbm.github.io/web-skills/)*
