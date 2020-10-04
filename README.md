@@ -21,6 +21,7 @@
 - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
 - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome to-do list application
 - **[Compixelar](https://medium.com/compixelar)**: Creative coding experiments
+- **[sTuring](https://www.instagram.com/sturing.compsci/)**: Scientific divulgation
 - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
 - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
 - **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
