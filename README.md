@@ -69,7 +69,7 @@
 
 Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, Mathematics, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), [Chess](https://lichess.org/@/danielbrito41), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep?si=oWza3WozRimzC7rt965_ww), [Cinema](https://filmow.com/usuario/daniel_brito/), Veganism, Calisthenics, Travelling
 
-#### 🤝 Social networks
+### 🤝 Social networks
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/daniel-brito)
 [![Facebook](https://img.shields.io/static/v1?label=&message=Facebook%20&color=0078FF&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/daniel.brito.jumper)
