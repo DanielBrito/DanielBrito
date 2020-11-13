@@ -67,7 +67,7 @@
 
 ### ❤️ Other interests:
 
-Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Poetry, [Languages](https://www.duolingo.com/DanBrito41), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Travelling
+Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Poetry, [Languages](https://www.duolingo.com/DanBrito41), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, Astronomy, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Travelling
 
 ### 🤝 Social networks
 
