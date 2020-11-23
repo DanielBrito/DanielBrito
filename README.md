@@ -23,7 +23,7 @@
 - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome to-do list application
 - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
 - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
-- **[HáLugar](https://play.google.com/store/apps/details?id=br.ufc.crateus.halugar)**: Housing app for students
+- **[HáLugar](https://github.com/HaLugar)**: Housing app for students
 - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
 - **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
 - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
