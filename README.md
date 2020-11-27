@@ -2,7 +2,7 @@
 
 ### 📌 Briefly:
 
-- I'm a ***Computer Science student*** and ***intern*** at the Federal University of Ceará
+- I'm a ***Computer Science student*** and ***developer*** at the Federal University of Ceará
 - I'm a ***visual art(iv)ist***
 - I'm a ***writer*** and ***poet***
 - Here is my ***[resumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***, ***[portfolio](https://danielbrito.github.io/home/)*** and ***[all my links](https://allmylinks.com/danielbrito)***
@@ -49,10 +49,11 @@
 - **Languages**: English, French
 -->
 
+<!--
 ### 👀 What I'm reading:
-
 - [Guide to Competitive Programming - Learning and Improving Algorithms Through Contests](https://link.springer.com/book/10.1007/978-3-319-72547-5) (Antii Laaksonen)
 - [Processing: Creative Coding and Computational Art](https://books.google.com.br/books/about/Processing.html?id=TKgfVpWPb0sC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) (Ira Greenberg)
+-->
 
 <!--
 ### 🧠 What I intend to learn (when possible):
