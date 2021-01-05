@@ -9,10 +9,10 @@
 
 ### 🎯 Studies:
 
-- As a **[self-taught](https://github.com/DanielBrito/self-learning)** enthusiast, I'm focusing on topics concerning ***front-end development*** of ***web*** and ***mobile*** applications from:
+- I'm focusing on **[topics](https://github.com/DanielBrito/self-learning)** concerning ***front-end development*** of ***web*** and ***mobile*** applications from:
 
-  - *[freeCodeCamp](https://www.freecodecamp.org/learn)*
   - *[100 Days of Code](https://github.com/nas5w/100-days-of-code-frontend)*
+  - *[freeCodeCamp](https://www.freecodecamp.org/learn)*
   - *[Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)*
   - *[Web Skills](https://andreasbm.github.io/web-skills/)*
   - *[Developer Roadmap](https://roadmap.sh/)*
