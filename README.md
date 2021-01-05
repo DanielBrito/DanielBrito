@@ -9,7 +9,7 @@
 
 ### 🎯 Studies:
 
-- I'm focusing on topics concerning ***front-end development*** of ***web*** and ***mobile*** applications from:
+- I'm a [self-taught](https://github.com/DanielBrito/self-learning) person focusing on topics concerning ***front-end development*** of ***web*** and ***mobile*** applications from:
 
   - *[freeCodeCamp](https://www.freecodecamp.org/learn)*
   - *[100 Days of Code](https://github.com/nas5w/100-days-of-code-frontend)*
