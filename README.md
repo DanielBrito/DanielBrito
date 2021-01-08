@@ -20,7 +20,7 @@
 ### 🚀 Main projects:
 
 - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
-- **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome to-do list application
+- **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome task manager
 - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
 - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
 - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
