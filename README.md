@@ -2,13 +2,13 @@
 
 ### 📌 Briefly:
 
-- ***Computer Science student*** and ***developer*** at the Federal University of Ceará
-- ***Visual art(iv)ist***
-- ***Writer*** and ***poet***
+- I'm a ***Computer Science student*** and ***developer*** at the Federal University of Ceará
+- I'm a ***visual art(iv)ist***
+- I'm a ***writer*** and ***poet***
 
 ### 🎯 Studies:
 
-- Focusing on **[topics](https://github.com/DanielBrito/self-learning)** concerning ***front-end development*** of ***web*** and ***mobile*** applications, but following the steps to become a **full-stack developer**.
+- I'm focusing on **[topics](https://github.com/DanielBrito/self-learning)** concerning ***front-end development*** of ***web*** and ***mobile*** applications, but following the steps to become a **full-stack developer**.
 
 ### 🚀 Main projects:
 
