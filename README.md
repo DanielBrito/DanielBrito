@@ -36,10 +36,10 @@
 
 Art ([Generative Design](https://github.com/DanielBrito/generative-design)), Poetry, [Languages](https://www.duolingo.com/DanBrito41), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, Astronomy, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Travelling
 
-### ℹ️ Other informations:
+### :heavy_plus_sign: Other informations:
 
+- ***[Website](https://danielbrito.github.io/)***
 - ***[Résumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***
-- ***[Portfolio](https://danielbrito.github.io/)***
 - ***[All my links](https://allmylinks.com/danielbrito)***
 
 
