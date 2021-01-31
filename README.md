@@ -38,9 +38,10 @@
 
 ### :heavy_plus_sign: Other informations:
 
-- ***[Website](https://danielbrito.github.io/)***
-- ***[Résumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)***
-- ***[All my links](https://allmylinks.com/danielbrito)***
+- **[Website](https://danielbrito.github.io/)**
+- **[Résumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)**
+- **[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2184225D8)**
+- **[AllMyLinks](https://allmylinks.com/danielbrito)**
 
 
 ### 👥 Social networks
