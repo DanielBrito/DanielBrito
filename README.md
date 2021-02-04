@@ -31,7 +31,7 @@
 ### 📚 Published books:
 
 - **[Protestizando - Biênio Poético (2015)](https://danielbrito.github.io/livros/#protestizando)**: First poems
-- **[A Ler Vazios (2016)](https://danielbrito.github.io/livros/#alervazios)**: Poetic and visual experiments
+- **[A Ler Vazios (2016)](https://danielbrito.github.io/livros/#a-ler-vazios)**: Poetic and visual experiments
 - **[No Ritmo de Algo (20??)](https://github.com/DanielBrito/no-ritmo-de-algo)**: Compilation of new poems
 
 ### ❤️ Other interests:
