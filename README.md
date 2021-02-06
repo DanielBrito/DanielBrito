@@ -18,7 +18,7 @@
 - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome task manager
 - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
 - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
-- **[Fun With Flags](https://github.com/DanielBrito/fun-with-flags)**: Using HTML and CSS.
+- **[Fun With Flags](https://github.com/DanielBrito/fun-with-flags)**: Using HTML and CSS
 - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
 - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
 - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
