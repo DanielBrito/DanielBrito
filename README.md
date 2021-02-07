@@ -14,20 +14,25 @@
 
 ### 🚀 Main projects:
 
-- **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
-- **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome task manager
-- **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
-- **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
-- **[Fun With Flags](https://github.com/DanielBrito/fun-with-flags)**: Using HTML and CSS
-- **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
-- **[HáLugar](https://github.com/HaLugar)**: Housing app for students
-- **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
-- **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
-- **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
-- **[Polymatus](http://daniel-brito.blogspot.com.br/)**: Personal blog
-- **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems 
-- **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
-- **[Others](https://github.com/DanielBrito?tab=projects)**: Ideas, On going, Completed
+- Development:
+  - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
+  - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome task manager
+  - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
+  - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
+  - **[Fun With Flags](https://github.com/DanielBrito/fun-with-flags)**: Using HTML and CSS
+  - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
+  - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
+  - **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
+  - **[Others](https://github.com/DanielBrito?tab=projects)**: Ideas, On going, Completed
+  
+- Education:
+  - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
+  - **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
+
+- Art:
+  - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
+  - **[Polymatus](http://daniel-brito.blogspot.com.br/)**: Personal blog
+  - **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
 
 ### 📚 Published books:
 
