@@ -31,7 +31,6 @@
 
 - Art:
   - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
-  - **[Polymatus](http://daniel-brito.blogspot.com.br/)**: Personal blog
   - **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
 
 ### 📚 Published books:
@@ -47,6 +46,7 @@
 ### :heavy_plus_sign: Other informations:
 
 - **[Website](https://danielbrito.github.io/)**
+- **[Blog](http://daniel-brito.blogspot.com.br/)**
 - **[Résumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)**
 - **[Lattes Curriculum](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2184225D8)**
 - **[AllMyLinks](https://allmylinks.com/danielbrito)**
