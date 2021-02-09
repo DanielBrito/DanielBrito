@@ -9,7 +9,7 @@
 
 ### 🎯 Studies:
 
-- Focusing on **[topics](https://github.com/DanielBrito/self-learning)** concerning ***front-end development*** of ***web*** and ***mobile*** applications
+- Focusing on [topics](https://github.com/DanielBrito/self-learning) concerning ***front-end development*** of ***web*** and ***mobile*** applications
 - Following the steps to become a **full-stack** developer
 
 ### 🚀 Main projects:
@@ -52,7 +52,7 @@
 - **[AllMyLinks](https://allmylinks.com/danielbrito)**
 
 
-### 👥 Social networks
+### 👥 Social networks:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/daniel-brito)
 [![Facebook](https://img.shields.io/static/v1?label=&message=Facebook%20&color=0078FF&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/daniel.brito.jumper)
