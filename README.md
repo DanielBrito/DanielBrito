@@ -49,8 +49,6 @@
 - **[Blog](http://daniel-brito.blogspot.com.br/)**
 - **[Résumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)**
 - **[Lattes Curriculum](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2184225D8)**
-- **[AllMyLinks](https://allmylinks.com/danielbrito)**
-
 
 ### 👥 Social networks:
 
