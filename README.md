@@ -17,7 +17,7 @@
 - Technology:
   - **[RESTack](https://github.com/DanielBrito/restack-api)**: Experimental REST API
   - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
-  - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling in Blender
+  - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling with Blender
   - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome task manager
   - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
   - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
