@@ -3,7 +3,7 @@
 ### 📌 Briefly:
 
 - I'm a ***Computer Science student*** at the Federal University of Ceará ([UFC](https://github.com/DanielBrito/ufc))
-- I'm a ***software developer*** at Instituto Pró-Hemoce
+- I'm a ***front-end developer*** at OSF Digital
 - I'm a ***visual art(iv)ist***
 - I'm a ***writer*** and ***poet***
 
