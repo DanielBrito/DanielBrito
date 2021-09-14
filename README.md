@@ -2,8 +2,8 @@
 
 ### 📌 Briefly:
 
-- I'm a ***Software Developer*** ([OSF Digital](https://osf.digital))
-- I'm a ***Computer Scientist*** ([UFC](https://github.com/DanielBrito/ufc))
+- I'm a ***Computer Scientist*** graduated at the Federal University of Ceará ([UFC](https://github.com/DanielBrito/ufc))
+- I'm a ***Software Developer*** at [OSF Digital](https://osf.digital)
 - I'm a ***Visual Artist*** and ***Writer***
 
 ### 🎯 Studies:
