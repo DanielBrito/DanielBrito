@@ -8,7 +8,7 @@
 
 ### 🎯 Studies:
 
-- Focusing on [topics](https://github.com/DanielBrito/self-learning) concerning usability and ***front-end development*** of ***web*** and ***mobile*** applications
+- Focusing on [topics](https://github.com/DanielBrito/self-learning) concerning ***usability*** and ***front-end development*** of ***web*** and ***mobile*** applications
 - Following the steps to become a ***full-stack*** developer
 
 ### 🚀 Main projects:
