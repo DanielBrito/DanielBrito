@@ -2,9 +2,7 @@
 
 ### 📌 Briefly:
 
-- I'm a ***Computer Scientist*** ([UFC](https://github.com/DanielBrito/ufc))
-- I'm a ***Software Developer*** ([OSF Digital](https://osf.digital))
-- I'm a ***Visual Artist*** and ***Writer***
+- I'm a ***Computer Scientist*** ([UFC](https://github.com/DanielBrito/ufc)), ***Software Developer*** ([OSF Digital](https://osf.digital)), ***Visual Artist*** and ***Writer***
 
 ### 🎯 Studies:
 
