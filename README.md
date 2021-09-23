@@ -7,7 +7,7 @@
 ### 🎯 Studies:
 
 - Focusing on [topics](https://github.com/DanielBrito/self-learning) concerning ***usability*** and ***front-end development*** of ***web*** and ***mobile*** applications
-- Following the steps to become a ***full-stack*** developer
+- Researching about [Generative Design](https://github.com/DanielBrito/generative-design), that is, algorithms to generate art
 
 ### 🚀 Main projects:
 
@@ -39,7 +39,7 @@
 
 ### ❤️ Other interests:
 
-[Art](https://github.com/DanielBrito/generative-design), Poetry, [Languages](https://duome.eu/DanBrito41), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, Astronomy, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Travelling, Social Activism
+[Art](https://github.com/DanielBrito/generative-design), [Poetry](https://github.com/DanielBrito/no-ritmo-de-algo), [Languages](https://duome.eu/DanBrito41), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, Astronomy, [Competitive Programming](https://github.com/DanielBrito/competitive-programming), Skateboarding, BMX, [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Travelling, Social Activism
 
 ### :heavy_plus_sign: More information:
 
