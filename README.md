@@ -55,4 +55,3 @@
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram%20&color=ff69b4&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/danielbrito41/)
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/danielhbrito)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UC4y3uq1d7MKDYs1LbI44Vng)
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram%20&color=0088cc&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/danielhbrito)
