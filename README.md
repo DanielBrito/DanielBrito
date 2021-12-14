@@ -12,13 +12,13 @@
 ### 🚀 Main projects:
 
 - Technology:
+  - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
+  - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling with Blender
+  - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: A nice task manager
+  - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
   - **[RESTack](https://github.com/DanielBrito/restack-api)**: Experimental REST API
   - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
-  - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling with Blender
-  - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: An awesome task manager
   - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
-  - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
-  - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
   - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
   - **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
   - **[Others](https://github.com/DanielBrito?tab=projects)**: Ideas, Ongoing, Completed
