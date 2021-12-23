@@ -27,7 +27,7 @@
   - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
   - **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
 
-- Art:
+- Arts:
   - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
   - **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
 
