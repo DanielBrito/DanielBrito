@@ -20,7 +20,6 @@
   - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
   - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
   - **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
-  - **[Others](https://github.com/DanielBrito?tab=projects)**: Ideas, Ongoing, Completed
   
 - Education:
   - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
