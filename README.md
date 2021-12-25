@@ -17,7 +17,6 @@
   - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: A nice task manager
   - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
   - **[RESTack](https://github.com/DanielBrito/restack-api)**: Experimental REST API
-  - **[PolymApp](https://github.com/DanielBrito/polymapp)**: Web platform for personal management
   - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
   - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
   - **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
