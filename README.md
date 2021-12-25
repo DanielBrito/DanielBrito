@@ -7,7 +7,7 @@
 ### 🎯 Studies:
 
 - Focusing on [topics](https://github.com/DanielBrito/self-learning) concerning ***usability*** and ***front-end development*** of ***web*** and ***mobile*** applications
-- Researching about [Generative Design](https://github.com/DanielBrito/generative-design), that is, algorithms to generate art
+- Researching about [algorithms that generate art](https://github.com/DanielBrito/generative-design)
 
 ### 🚀 Main projects:
 
