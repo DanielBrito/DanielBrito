@@ -16,8 +16,8 @@
   - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling with Blender
   - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: A nice task manager
   - **[HáLugar](https://github.com/HaLugar)**: Housing app for students
-  - **[RESTack](https://github.com/DanielBrito/restack-api)**: Experimental REST API
   - **[Home](https://github.com/DanielBrito/home)**: Refactored version of my first website
+  - **[RESTack](https://github.com/DanielBrito/restack-api)**: Experimental REST API
   - **[GEMP](https://github.com/GEMP-UFC-Crateus)**: Competitive programming group
   - **[Célerebro](https://github.com/DanielBrito/celerebro)**: Command-line based math mini-game
   
@@ -31,9 +31,9 @@
 
 ### 📚 Published books:
 
-- **[Protestizando - Biênio Poético (2015)](https://danielbrito.github.io/livros/#protestizando)**: First poems
-- **[A Ler Vazios (2016)](https://danielbrito.github.io/livros/#a-ler-vazios)**: Poetic and visual experiments
-- **[No Ritmo de Algo (20??)](https://github.com/DanielBrito/no-ritmo-de-algo)**: Compilation of new poems
+- **[Protestizando - Biênio Poético](https://danielbrito.github.io/livros/#protestizando)**: First poems
+- **[A Ler Vazios](https://danielbrito.github.io/livros/#a-ler-vazios)**: Poetic and visual experiments
+- **[No Ritmo de Algo](https://github.com/DanielBrito/no-ritmo-de-algo)**: Compilation of new poems
 
 ### ❤️ Other interests:
 
