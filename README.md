@@ -1,4 +1,4 @@
-# Hello, world! Greetings from 🇧🇷
+# Hello, world!
 
 ### 📌 Briefly:
 
