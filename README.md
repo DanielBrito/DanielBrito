@@ -69,6 +69,6 @@
 ### 📊 Activity
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBrito&show_icons=true&theme=monokai"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&theme=monokai"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielBrito&show_icons=true&theme=monokai"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&theme=monokai"/>
 </div>
