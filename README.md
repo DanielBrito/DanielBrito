@@ -68,6 +68,7 @@
 
 ### 📊 Activity
 
-[![DanielBrito GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBrito&show_icons=true&theme=monokai)](https://github.com/DanielBrito)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&theme=monokai)](https://github.com/DanielBrito)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBrito&show_icons=true&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&theme=monokai"/>
+</div>
