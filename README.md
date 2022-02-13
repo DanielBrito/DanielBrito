@@ -33,6 +33,8 @@
   - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
   - **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
 
+---
+
 ### 📚 Published books:
 
 - **[Protestizando - Biênio Poético](https://danielbrito.github.io/livros/#protestizando)**: First poems
