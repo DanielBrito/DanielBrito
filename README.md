@@ -72,5 +72,5 @@
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielBrito&show_icons=true&theme=monokai"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&langs_count=10&theme=monokai"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&langs_count=6&theme=monokai"/>
 </div>
