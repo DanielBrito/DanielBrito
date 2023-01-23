@@ -8,7 +8,7 @@
 
 ### 🛠️ Working with:
 
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS, GraphQL, Backend For Frontend, Micro-Frontends
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS, GraphQL
 - **Back-end:** Spring Framework, Kotlin, Kafka, AWS Lambda, Amazon SQS, PostgreSQL
 - **Testing:** React Testing Library, MockK, SonarQube
 - **DevOps:** Git, GitHub, CircleCI
