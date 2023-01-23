@@ -6,6 +6,16 @@
 
 ---
 
+### 🛠️ Working with:
+
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS, GraphQL, Backend For Frontend, Micro-Frontends
+- **Back-end:** Spring Framework, Kotlin, Kafka, AWS Lambda, Amazon SQS, PostgreSQL
+- **Testing:** React Testing Library, MockK, SonarQube
+- **DevOps:** Git, GitHub, CircleCI
+- **Subjects:** Software Architecture, Test-Driven Development, Domain-Driven Design, Data Structures, Design Patterns
+
+---
+
 ### 🎯 Studies:
 
 - Focusing on [topics](https://github.com/DanielBrito/self-learning) concerning ***usability*** and ***front-end development*** of ***web*** and ***mobile*** applications
