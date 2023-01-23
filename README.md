@@ -12,6 +12,7 @@
 - **Back-end:** Spring Framework, Kotlin, Kafka, AWS Lambda, Amazon SQS, PostgreSQL
 - **Testing:** React Testing Library, MockK, SonarQube
 - **DevOps:** Git, GitHub, CircleCI
+- **Monitoring:** Datadog, Kibana, Amazon CloudWatch
 - **Subjects:** Software Architecture, Test-Driven Development, Domain-Driven Design, Data Structures, Design Patterns
 
 ---
