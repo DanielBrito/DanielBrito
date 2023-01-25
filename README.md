@@ -8,8 +8,8 @@
 
 ### 🛠️ Working with:
 
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS, GraphQL
-- **Back-end:** Spring Framework, Kotlin, Jackson, Kafka, AWS Lambda, Amazon SQS, PostgreSQL, Flyway
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
+- **Back-end:** Spring Framework, Kotlin, Jackson, Kafka, AWS Lambda, Amazon SQS, PostgreSQL, Flyway, GraphQL
 - **Testing:** AssertJ, MockK, Wiremock, Localstack, SonarQube, React Testing Library
 - **DevOps:** Git, GitHub, Docker, CircleCI
 - **Monitoring:** Datadog, Kibana, Amazon CloudWatch
