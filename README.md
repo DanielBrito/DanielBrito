@@ -10,7 +10,7 @@
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
 - **Back-end:** Spring Framework, Kotlin, Jackson, Kafka, AWS Lambda, Amazon SQS, PostgreSQL, Flyway, GraphQL
-- **Testing:** AssertJ, MockK, Wiremock, Localstack, SonarQube, React Testing Library
+- **Testing:** JUnit, AssertJ, MockK, Wiremock, Localstack, SonarQube, React Testing Library
 - **DevOps:** Git, GitHub, Docker, CircleCI
 - **Monitoring:** Datadog, Kibana, Amazon CloudWatch
 - **Subjects:** Software Architecture, Test-Driven Development, Domain-Driven Design, Data Structures, Design Patterns
