@@ -11,7 +11,7 @@
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS, GraphQL
 - **Back-end:** Spring Framework, Kotlin, Kafka, AWS Lambda, Amazon SQS, PostgreSQL
 - **Testing:** React Testing Library, MockK, SonarQube
-- **DevOps:** Git, GitHub, CircleCI
+- **DevOps:** Git, GitHub, Docker, CircleCI
 - **Monitoring:** Datadog, Kibana, Amazon CloudWatch
 - **Subjects:** Software Architecture, Test-Driven Development, Domain-Driven Design, Data Structures, Design Patterns
 
