@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Working with:
+### 🛠️ Currently working with:
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
 - **Back-end:** Spring Framework, Kotlin, Jackson, Kafka, AWS Lambda, Amazon SQS, PostgreSQL, Flyway, GraphQL
