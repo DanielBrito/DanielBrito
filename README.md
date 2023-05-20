@@ -14,7 +14,7 @@
 - **DevOps:** Git, GitHub, Docker
 - **Monitoring:** Datadog, Opsgenie, Amazon CloudWatch
 - **Tools**: VS Code, Intellij IDEA, DBeaver, Postman, Jira, Redash, Split.io
-- **Subjects:** Software Architecture, TDD, DDD, Data Structures, Design Patterns, Scrum, Kanban
+- **Subjects:** Software Architecture, TDD, DDD, BFF, Data Structures, Design Patterns, Scrum, Kanban
 
 ---
 
