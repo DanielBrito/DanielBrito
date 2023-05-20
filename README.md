@@ -2,7 +2,7 @@
 
 ### 📌 Briefly:
 
-- I'm a ***Computer Scientist*** ([UFC](https://github.com/DanielBrito/ufc)), ***Software Developer*** ([OSF Digital](https://osf.digital)), ***Visual Artist*** and ***Writer***
+- I'm a ***Computer Scientist*** ([UFC](https://github.com/DanielBrito/ufc)), ***Software Engineer*** ([OSF Digital](https://osf.digital)), ***Visual Artist*** and ***Writer***
 
 ---
 
@@ -11,9 +11,10 @@
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
 - **Back-end:** Spring Framework, Kotlin, Jackson, Kafka, AWS Lambda, Amazon SQS, PostgreSQL, Flyway, GraphQL
 - **Testing:** JUnit, AssertJ, MockK, WireMock, Localstack, SonarQube, React Testing Library
-- **DevOps:** Git, GitHub, Docker, CircleCI
-- **Monitoring:** Datadog, Amazon CloudWatch
-- **Subjects:** Software Architecture, Test-Driven Development, Domain-Driven Design, Data Structures, Design Patterns
+- **DevOps:** Git, GitHub, Docker
+- **Monitoring:** Datadog, Opsgenie, Amazon CloudWatch
+- **Tools**: VS Code, Intellij IDEA, DBeaver, Postman, Jira, Redash, Split.io
+- **Subjects:** Software Architecture, TDD, DDD, Data Structures, Design Patterns, Scrum, Kanban
 
 ---
 
