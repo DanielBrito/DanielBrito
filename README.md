@@ -43,7 +43,7 @@
 
 - Arts:
   - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
-  - **[Fanzines](https://issuu.com/daniel.brito)**: Electronic publication of poems
+  - **[Fanzines](https://drive.google.com/drive/folders/0BwdGPIUP6mG3dEl6cmRvWGJ6TzQ)**: Electronic publication of poems
 
 ---
 
