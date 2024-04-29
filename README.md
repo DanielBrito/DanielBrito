@@ -13,7 +13,7 @@
 - **Testing:** JUnit, AssertJ, MockK, WireMock, Localstack, SonarQube, React Testing Library
 - **DevOps:** Git, GitHub, Docker
 - **Monitoring:** Datadog, Opsgenie, Amazon CloudWatch
-- **Tools**: VS Code, IntelliJ IDEA, DBeaver, Postman, Jira, Redash, Split.io
+- **Tools**: VS Code, IntelliJ IDEA, DBeaver, Postman, Jira, Redash, Flagsmith
 - **Subjects:** Software Architecture, TDD, DDD, BFF, Data Structures, Design Patterns, Kanban
 
 ---
