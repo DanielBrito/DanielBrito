@@ -9,10 +9,10 @@
 ### 🛠️ Currently working with:
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
-- **Back-end:** Spring Framework, Kotlin, Kafka, AWS Lambda, Amazon SQS, PostgreSQL, Flyway, GraphQL, Swagger
+- **Back-end:** Spring Framework, Kotlin, Kafka, Amazon SQS, PostgreSQL, Flyway, GraphQL
 - **Testing:** JUnit, AssertJ, MockK, WireMock, Localstack, SonarQube, React Testing Library
 - **DevOps:** Git, GitHub, Docker
-- **Monitoring:** Datadog, Opsgenie, Amazon CloudWatch
+- **Monitoring:** Datadog, Opsgenie
 - **Tools**: VS Code, IntelliJ IDEA, DBeaver, Postman, Jira, Redash, Flagsmith
 - **Subjects:** Software Architecture, TDD, DDD, BFF, Data Structures, Design Patterns, Kanban
 
