@@ -10,7 +10,7 @@
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
 - **Back-end:** Spring Framework, Kotlin, Kafka, Amazon SQS, PostgreSQL, Flyway, GraphQL
-- **Testing:** JUnit, AssertJ, MockK, WireMock, Localstack, SonarQube, React Testing Library
+- **Testing:** JUnit, AssertJ, MockK, WireMock, Localstack, SonarQube, Jest, React Testing Library
 - **DevOps:** Git, GitHub, Docker
 - **Monitoring:** Datadog, Opsgenie
 - **Tools**: VS Code, IntelliJ IDEA, DBeaver, Postman, Jira, Redash, Flagsmith
