@@ -40,7 +40,7 @@
   
 - Education:
   - **[sTuring](https://github.com/DanielBrito/sturing)**: Scientific divulgation
-  - **[YouTube Channel](https://www.youtube.com/user/59336197)**: Programming tutorials for beginners
+  - **[YouTube Channel](https://www.youtube.com/@danielhbrito)**: Programming tutorials for beginners
 
 - Arts:
   - **[Aluminions](https://www.instagram.com/aluminions.13/)**: Creation of characters using aluminum seals
@@ -77,7 +77,7 @@
 [![Facebook](https://img.shields.io/static/v1?label=&message=Facebook%20&color=0078FF&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/daniel.brito.jumper)
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram%20&color=ff69b4&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/danielbrito41/)
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/danielhbrito)
-[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UC4y3uq1d7MKDYs1LbI44Vng)
+[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/@danielhbrito)
 
 ---
 
