@@ -20,7 +20,7 @@
 
 ### 🎯 Studies:
 
-- Focusing on [topics](https://github.com/DanielBrito/self-learning) related to ***software engineering*** and ***architecture***
+- Focusing on [topics](https://github.com/DanielBrito/self-learning) related to ***software architecture***
 - Researching about [algorithms that generate art](https://github.com/DanielBrito/generative-design)
 
 ---
