@@ -28,7 +28,7 @@
 ### 🚀 Main projects:
 
 - Technology:
-  - **[Poemix](https://github.com/DanielBrito/poemix)**: Platform to share my poetry
+  - **[Poemix](https://github.com/DanielBrito/poemix)**: Minimalist platform to share my poetry
   - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
   - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling with Blender
   - **[Fire Tasks](https://github.com/DanielBrito/fire-tasks)**: A nice task manager
