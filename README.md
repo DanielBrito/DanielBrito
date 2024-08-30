@@ -79,6 +79,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/danielhbrito)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/@danielhbrito)
 
+<!--
 ---
 
 ### 📊 Activity
@@ -87,3 +88,4 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielBrito&show_icons=true&theme=monokai"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrito&show_icons=true&layout=compact&langs_count=6&theme=monokai"/>
 </div>
+-->
