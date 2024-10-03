@@ -69,6 +69,7 @@
 - **[Résumé](https://drive.google.com/file/d/1bOFjCfhoyabvcZ7LXf5T3EtY9h6umsaR/view)**
 - **[Lattes Curriculum](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2184225D8)**
 
+<!--
 ---
 
 ### 👥 Social networks:
@@ -78,6 +79,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram%20&color=ff69b4&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/danielbrito41/)
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20&color=1DA1F2&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/danielhbrito)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/@danielhbrito)
+-->
 
 <!--
 ---
