@@ -22,6 +22,7 @@
 
 - Focusing on [topics](https://github.com/DanielBrito/self-learning) related to ***software architecture***
 - Researching about [algorithms that generate art](https://github.com/DanielBrito/generative-design)
+- Applying knowledge in [general projects](https://github.com/DanielBrito?tab=projects)
 
 ---
 
