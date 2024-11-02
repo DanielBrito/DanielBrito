@@ -14,7 +14,7 @@
 - **DevOps:** Git, GitHub, Docker
 - **Monitoring:** Datadog, Opsgenie
 - **Tools**: VS Code, IntelliJ IDEA, DBeaver, Postman, Jira, Redash, Detekt, Flagsmith
-- **Subjects:** Software Architecture, TDD, DDD, BFF, Data Structures, Design Patterns, Kanban
+- **Subjects:** Software Architecture, Data Structures, Design Patterns, Kanban, TDD, DDD, BFF, MFEs
 
 ---
 
