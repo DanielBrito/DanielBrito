@@ -58,7 +58,7 @@
 
 ### 👍 Other interests:
 
-[Art](https://github.com/DanielBrito/generative-design), [Poetry](https://github.com/DanielBrito/no-ritmo-de-algo), [Languages](https://www.duolingo.com/profile/danielhbrito), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, Astronomy, [Problem-Solving](https://github.com/DanielBrito/competitive-programming), Skateboarding, [Cycling](https://www.strava.com/athletes/96925816), [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Travelling, [Blogging](https://daniel-brito.blogspot.com.br/), Social Activism
+[Art](https://github.com/DanielBrito/generative-design), [Poetry](https://github.com/DanielBrito/no-ritmo-de-algo), [Languages](https://www.duolingo.com/profile/danielhbrito), Philosophy, [Literature](https://www.skoob.com.br/usuario/1021319-dan), History, [Chess](https://lichess.org/@/danielbrito41), Mathematics, Astronomy, [Problem-Solving](https://github.com/DanielBrito/competitive-programming), Skateboarding, [Cycling](https://www.strava.com/athletes/96925816), [Music](https://open.spotify.com/user/xb93kruabsjskn5chjqo127ep), Veganism, [Cinema](https://filmow.com/usuario/daniel_brito/), Calisthenics, Swimming, Travelling, [Blogging](https://daniel-brito.blogspot.com.br/), Social Activism
 
 ---
 
