@@ -11,7 +11,7 @@
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, ReactJS
 - **Back-end:** Spring Framework, Kotlin, Kafka, Amazon SQS, PostgreSQL, Flyway, GraphQL
 - **Testing:** JUnit, AssertJ, MockK, WireMock, Localstack, SonarQube, Jest, React Testing Library
-- **DevOps:** Git, GitHub, Docker
+- **DevOps:** Git, GitHub, Docker, Kubernetes
 - **Monitoring:** Datadog, Opsgenie
 - **Tools**: VS Code, IntelliJ IDEA, DBeaver, Postman, Jira, Redash, Detekt, Flagsmith
 - **Subjects:** Software Architecture, Data Structures, Design Patterns, Kanban, TDD, DDD, BFF, MFEs
