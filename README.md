@@ -29,6 +29,7 @@
 ### 🚀 Main projects:
 
 - Technology:
+  - **[Financial Control Service](https://github.com/DanielBrito/financial-control-service)**: Application to manage my finances
   - **[Poemix](https://github.com/DanielBrito/poemix)**: Minimalist platform to share my poetry
   - **[Compixelar](https://github.com/DanielBrito/creative-coding-experiments)**: Creative coding experiments
   - **[Dissertation](https://github.com/DanielBrito/monografia)**: Procedural modeling with Blender
