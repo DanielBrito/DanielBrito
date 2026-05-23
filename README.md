@@ -1,6 +1,6 @@
 # 👋 Hello, world!
 
-### 📌 Briefly - I'm a:
+### 📌 I'm a:
 
 - Software Engineer ([C6 Bank](https://www.c6bank.com.br/))
 - Computer Scientist ([UFC](https://github.com/DanielBrito/ufc))
