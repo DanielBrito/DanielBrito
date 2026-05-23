@@ -12,7 +12,7 @@
 
 ### 🎯 Studies:
 
-- Diving deep into [several topics](https://github.com/DanielBrito/self-learning) related to ***Software Engineering*** and ***Artificial Intelligence**
+- Diving deep into [several topics](https://github.com/DanielBrito/self-learning) related to ***Software Engineering*** and ***Artificial Intelligence***
 - Exploring [algorithms that generate art](https://github.com/DanielBrito/generative-design)
 - Applying knowledge in [general projects](https://github.com/DanielBrito?tab=projects)
 
