@@ -1,6 +1,6 @@
 # 👋 Hello, world!
 
-### 📌 Profile:
+### 📌 Briefly:
 
 - Software Engineer ([C6 Bank](https://www.c6bank.com.br/))
 - Computer Scientist ([UFC](https://github.com/DanielBrito/ufc))
